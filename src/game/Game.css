@@ -1,0 +1,36 @@
+.container{
+    background: url("./img/bgGame.png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: round;
+    padding: 50px;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin: 50px auto;
+}
+.btn-xs{
+    width: 100px;
+    height: 100px;
+    border: none;
+    background-color: #5c5cf4;
+    color: #fff;
+    font-size: 30px;
+    letter-spacing: 2px;
+    border: 2px solid #90dd90;
+    cursor: pointer;
+}
+.btn-play{
+    width: 130px;
+    background-color: #1e8b1e;
+    height: 30px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.xucsac img{
+    width: 50px;
+    margin: 10px;
+}
